@@ -1,0 +1,4 @@
+client_secret = "${CLIENT_SECRET}"
+password = "change-me"
+logger.info("login for user " + userId)
+.allowedOrigins("https://app.example.com")

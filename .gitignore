@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+app/build/
+app/windows/flutter/ephemeral/
+.dart_tool/
+engine/out/
+out/
+*.log
